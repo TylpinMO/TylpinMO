@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#0d47a1;">ON-Нова x TylpinMO</h1>
+<h1 align="center" style="color:#0d47a1;">TylpinMO</h1>
 <h3 align="center"><i>Там, где креатив встречается с кодом</i></h3>
 
 <p align="center">
@@ -10,9 +10,8 @@
 ---
 
 ### 📄 Мое резюме
-
-🧠 Хочешь больше информации обо мне и опыте?  
-👉 [Скачать CV (PDF)](https://your-link-to-cv.com)
+ 
+👉 [CV]([https://your-link-to-cv.com](https://github.com/TylpinMO/CV))
 
 ---
 
@@ -33,25 +32,14 @@
 #### ⚙️ Бэкенд и базы данных
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d47a1?logo=postgresql&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 
 #### 🤖 Telegram-боты
-![Telegram](https://img.shields.io/badge/-Telegram Bots-ff6f00?logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/-TelegramBots-ff6f00?logo=telegram&logoColor=white)
 ![Aiohttp](https://img.shields.io/badge/-Aiohttp-0d47a1?logo=python&logoColor=white)
 ![Web3](https://img.shields.io/badge/-web3.py-ff6f00?logo=web3&logoColor=white)
 
 #### 🎨 Дизайн
 ![Figma](https://img.shields.io/badge/-Figma-ff6f00?logo=figma&logoColor=white)
-
----
-
-### 🚀 ON-Нова проекты
-
-| Проект | Описание | Технологии |
-|--------|----------|------------|
-| 🎬 [КиноПоиск SPA](https://github.com/TylpinMO/kinopoisk-spa) | React-приложение для поиска фильмов с фильтрацией и избранным | React, TypeScript, Zustand, API |
-| 🤖 Крипто-бот | Telegram-бот для отслеживания транзакций и анализа токенов | Python, aiohttp, web3, Telegram API |
-| 🌐 ON-Нова сайт | Многостраничный сайт агентства в фирменном стиле с анимациями и заявками | Next.js, TailwindCSS, Framer Motion |
 
 ---
 
@@ -66,22 +54,10 @@
 
 ### 📬 Связь
 
-- Telegram: [@tylpinmo](https://t.me/tylpinmo)
-- Email: tylpinmo.dev@gmail.com
+- Telegram: [@matotot](https://t.me/matotot)
+- Email: tylpin.mo@phystech.edu
 
 ---
-
-### 🌀 Где креатив встречается с кодом...
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Создаем+ботов,+сайты,+приложения+и+дизайн;&font=Fira+Code&center=true&width=600&height=50&color=FF6F00&vCenter=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/TylpinMO/TylpinMO/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 <p align="center">
   ⭐ Поддержи проекты звездочкой — это мотивация продолжать ❤️
