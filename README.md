@@ -58,7 +58,3 @@
 - Email: tylpin.mo@phystech.edu
 
 ---
-
-<p align="center">
-  ⭐ Поддержи проекты звездочкой — это мотивация продолжать ❤️
-</p>
