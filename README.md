@@ -11,7 +11,7 @@
 
 ### 📄 Мое резюме
  
-👉 [CV]([[https://github.com/TylpinMO/CV])
+👉 [Посмотреть мое CV на GitHub](https://github.com/TylpinMO/CV)
 
 ---
 
