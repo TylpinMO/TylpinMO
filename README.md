@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#0d47a1;">TylpinMO</h1>
+<h1 align="center" style="color:#0d47a1;">Matvey</h1>
 <h3 align="center"><i>Там, где креатив встречается с кодом</i></h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ### 📄 Мое резюме
  
-👉 [CV]([https://your-link-to-cv.com](https://github.com/TylpinMO/CV))
+👉 [CV]([[https://github.com/TylpinMO/CV])
 
 ---
 
